@@ -48,8 +48,8 @@ addauth - [Admin] add new auth user 🎉
 3. `BOT_TOKEN` : Get it from [@Botfather](https://t.me/botfather)
 4. `DATABASE_URL` : Your mongodb url obtained from [mongodb.com](https://www.mongodb.com)
 5. `OWNER_ID` : Your telegram I'd use this bot [@TGxSparrowBot](https://telegram.dog/TGxSparrowBot) and use `/info`
-6. `BOT_USERNAME` : Your Bot Username Without @
-7. `UPDATES_CHANNEL` : Your Update channel id or skip
+6. `AUTH_USERS` : List of auth users separated by space
+7. `BANNED_USERS` : List of banned users separated by space
 8. `LOG_CHANNEL` : Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission
 
 
