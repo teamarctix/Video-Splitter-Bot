@@ -33,8 +33,6 @@ class Config(object):
 
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
-    UPDATES_CHANNEL = os.environ.get("UPDATE_CHANNEL", "-1001512853438")
-
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001512853438"))
 
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Jayanna:Jayanna2023@yash.tm1c2bd.mongodb.net/?retryWrites=true&w=majority")
