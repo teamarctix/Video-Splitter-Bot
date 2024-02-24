@@ -29,6 +29,15 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/JayaG-gowda/Video-Splitter-Bot)
 
+## Run in your VPS
+
+'''
+git clone https://github.com/ZauteKm/URL-Uploader
+cd URL-Uploader
+pip3 install -r requirements.txt
+# <Create config.py appropriately>
+python3 bot.py
+'''
 
 ### Comment
 
