@@ -31,13 +31,13 @@
 
 ## Run in your VPS
 
-'''
-git clone https://github.com/ZauteKm/URL-Uploader
-cd URL-Uploader
+```
+git clone https://github.com/JayaG-gowda/Video-Splitter-Bot
+cd Video-Splitter-Bot
 pip3 install -r requirements.txt
-# <Create config.py appropriately>
+# <Edit config.py appropriately>
 python3 bot.py
-'''
+```
 
 ### Comment
 
