@@ -47,7 +47,7 @@ addauth - [Admin] add new auth user 🎉
 2. `API_HASH` : Get it from https://my.telegram.org/apps
 3. `BOT_TOKEN` : Get it from [@Botfather](https://t.me/botfather)
 4. `DATABASE_URL` : Your mongodb url obtained from [mongodb.com](https://www.mongodb.com)
-5. `OWNER_ID` : Your telegram I'd use this bot [@TGxSparrowBot](https://telegram.dog/mj_search_bot) and use `/info`
+5. `OWNER_ID` : Your telegram I'd use this bot [𝐌𝐉 𝐌𝐨𝐯𝐢𝐞𝐬 𝐒𝐞𝐚𝐫𝐜𝐡 𝐁𝐨𝐭](https://telegram.dog/mj_search_bot) and use `/info`
 6. `AUTH_USERS` : List of auth users separated by space
 7. `BANNED_USERS` : List of banned users separated by space
 8. `LOG_CHANNEL` : Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission
