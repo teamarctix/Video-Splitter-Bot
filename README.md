@@ -4,6 +4,8 @@
 
 ![Logo](https://github.com/JayaG-gowda/Video-Splitter-Bot/assets/119968609/81a81d0e-cc07-4c60-828b-3f4ca01cfd7b)
 
+# 🤍 Thanks for Being Here 🤍
+
 [![GitHub forks](https://img.shields.io/github/forks/JayaG-gowda/Video-Splitter-Bot?&style=flat-square&logo=github)](https://github.com/JayaG-gowda/Video-Splitter-Bot/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/JayaG-gowda/Video-Splitter-Bot?&style=flat-square&logo=github)
 [![GitHub stars](https://img.shields.io/github/stars/JayaG-gowda/Video-Splitter-Bot?&style=flat-square&logo=github)](https://github.com/JayaG-gowda/Video-Splitter-Bot/stargazers)
@@ -53,4 +55,16 @@ addauth - [Admin] add new auth user 🎉
 8. `LOG_CHANNEL` : Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission
 
 
-# Credits
+# Credits, and Thanks to
+
+1. [Jayanna G](https://github.com/JayaG-gowda) for [Media Splitter Bot](https://t.me/media_splitter_bot)
+2. [Nandan C](https://github.com/) for video splitter snippet
+
+## Licence
+
+<a href="https://github.com/JayaG-gowda/Video-Splitter-Bot/blob/main/LICENSE"><img src="https://camo.githubusercontent.com/b7114f43bc3473adbfc25e0939e754b96456520685aeb58da630537dd08403f9/68747470733a2f2f7777772e676e752e6f72672f67726170686963732f67706c76332d3132377835312e706e67"><a/>
+
+<a href="https://github.com/JayaG-gowda/Video-Splitter-Bot">Video-Splitter-Bot</a> is Free Bot: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+<h3>Star this Repo if you Liked it ⭐⭐⭐</h3>
+
