@@ -32,9 +32,12 @@
 
 ```
 start - Check Bot Online 🔔
+sp - Number of parts to split media 🎥
 about - Something About Me 😌
+help - How to use me 🤔
 delthumb - Delete Your Thumbnail 🏞
 showthumb - Showing Your Thumbnail 🏞
+addauth - [Admin] add new auth user 🎉
 ```
 
 
