@@ -2,9 +2,9 @@
 <a href="https://t.me/media_splitter_bot"><h1 align="center">Video Splitter Bot 🚀</h1></a>
 
 
-![Logo](https://github.com/JayaG-gowda/Video-Splitter-Bot/assets/119968609/81a81d0e-cc07-4c60-828b-3f4ca01cfd7b)
+<img src="https://github.com/JayaG-gowda/Video-Splitter-Bot/assets/119968609/81a81d0e-cc07-4c60-828b-3f4ca01cfd7b" align="center">
 
-## 🤍 Thanks for Being Here 🤍
+<h3 align="center"> 🤍 Thanks for Being Here 🤍</h3>
 
 [![GitHub forks](https://img.shields.io/github/forks/JayaG-gowda/Video-Splitter-Bot?&style=flat-square&logo=github)](https://github.com/JayaG-gowda/Video-Splitter-Bot/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/JayaG-gowda/Video-Splitter-Bot?&style=flat-square&logo=github)
