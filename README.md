@@ -39,19 +39,6 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-### Comment
-
-```
-start - Check Bot Online 🔔
-sp - Number of parts to split media 🎥
-about - Something About Me 😌
-help - How to use me 🤔
-delthumb - Delete Your Thumbnail 🏞
-showthumb - Showing Your Thumbnail 🏞
-addauth - [Admin] add new auth user 🎉
-```
-
-
 ### Config Vars:
 
 1. `API_ID` : Get it from https://my.telegram.org/apps 
@@ -62,6 +49,19 @@ addauth - [Admin] add new auth user 🎉
 6. `AUTH_USERS` : List of auth users separated by space
 7. `BANNED_USERS` : List of banned users separated by space
 8. `LOG_CHANNEL` : Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission
+
+
+### Commands
+
+```
+start - Check Bot Online 🔔
+sp - Number of parts to split media 🎥
+about - Something About Me 😌
+help - How to use me 🤔
+delthumb - Delete Your Thumbnail 🏞
+showthumb - Showing Your Thumbnail 🏞
+addauth - [Admin] add new auth user 🎉
+```
 
 
 # Credits, and Thanks to
