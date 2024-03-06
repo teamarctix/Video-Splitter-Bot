@@ -67,7 +67,7 @@ addauth - [Admin] add new auth user 🎉
 # Credits, and Thanks to
 
 1. [Jayanna G](https://github.com/JayaG-gowda) for [Media Splitter Bot](https://t.me/media_splitter_bot)
-2. [Nandan C](https://github.com/Nandan524) for video splitter snippet
+2. [Nandan C](https://github.com/Nandan524) for fastest Video Splitter Snippet
 
 ## Licence
 
@@ -76,4 +76,3 @@ addauth - [Admin] add new auth user 🎉
 <a href="https://github.com/JayaG-gowda/Video-Splitter-Bot">Video-Splitter-Bot</a> is Free Bot: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 <h3>Star this Repo if you Liked it ⭐⭐⭐</h3>
-
