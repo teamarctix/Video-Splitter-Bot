@@ -67,7 +67,7 @@ addauth - [Admin] add new auth user 🎉
 # Credits, and Thanks to
 
 1. [Jayanna G](https://github.com/JayaG-gowda) for [Media Splitter Bot](https://t.me/media_splitter_bot)
-2. [Nandan C](https://github.com/) for video splitter snippet
+2. [Nandan C](https://github.com/Nandan524) for video splitter snippet
 
 ## Licence
 
