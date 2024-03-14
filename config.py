@@ -13,15 +13,15 @@ logging.basicConfig(
 
 class Config(object):
 
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6100891233:AAHo_OjnFWTdY_JewRdcqphxASAcAK1IHVg") #@dgfghgjbot 
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "2051526754:AAFmcLo0tSxJoWOaAnz0wXJBeU18PQPPQvI") #@dgfghgjbot 
 
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", "5872747581:AAH7_XPCOCEVfbgUhepjJWlcOmj8wjDTjBk") #@jn_url_v3_bot
     
-    API_ID = int(os.environ.get("API_ID", "3393749"))
+    API_ID = int(os.environ.get("API_ID", "7158372"))
 
-    API_HASH = os.environ.get("API_HASH", "a15a5954a1db54952eebd08ea6c68b71")
+    API_HASH = os.environ.get("API_HASH", "9b76f950982c656005722fb3e779320f")
 
-    OWNER_ID = int(os.environ.get("OWNER_ID", "1061576483"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", "1881720028"))
     
     AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "1061576483").split())
 
@@ -33,7 +33,7 @@ class Config(object):
 
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001512853438"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001986522281"))
 
     DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://Jayanna:Jayanna2023@yash.tm1c2bd.mongodb.net/?retryWrites=true&w=majority")
 
