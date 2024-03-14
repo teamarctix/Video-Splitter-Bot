@@ -27,7 +27,7 @@
 
 ## Deploy To Render                     
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/JayaG-gowda/Video-Splitter-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/teamarctix/Video-Splitter-Bot)
 
 ## Run in your VPS
 
